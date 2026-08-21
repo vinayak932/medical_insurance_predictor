@@ -41,7 +41,7 @@ Instead of training only one model, I compared **Multiple Linear Regression** wi
 - Pandas
 - NumPy
 - Scikit-learn
-- Jupyter Notebook
+- Google Colab
 
 ## 📈 Model Performance
 
